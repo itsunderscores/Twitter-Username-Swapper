@@ -16,7 +16,7 @@ Install the required packages:<br>
 
 The headers must include "x-csrf-token:" and "authorization: Bearer" so make sure you grab the correct one.<br><br>
 
-Sign into the accounts you want to use, and head over to: 
+Sign into the accounts you want to use, and do the following
 1) Place the request headers of the account that is going to release the username in **"account1.txt"**<br>
 2) Place the request headers of the account that is claiming the username in **"account2.txt"**<br><br>
 
