@@ -15,9 +15,9 @@ Install the required packages:<br>
 * pip install requests<br><br>
 
 You will need to grab the headers and cookies from the accounts you are wanting to use/swap.<br>
-Place the headers of the username that is being released in **"account1.txt"**<br>
-Place the headers of the username that is claiming the username in **"account2.txt"**<br><br>
+1) Place the headers of the username that is being released in **"account1.txt"**<br>
+2) Place the headers of the username that is claiming the username in **"account2.txt"**<br><br>
 
-To run the program, open CMD in the directory and type "python main.py"
+3) To run the program, open CMD in the directory and type "python main.py"
 
-Follow the instructions and it'll complete the swap.
+4) Follow the instructions and it'll complete the swap.
