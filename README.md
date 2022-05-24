@@ -14,7 +14,7 @@ https://discord.gg/vG5Rz9dASx
 Install the required packages:<br>
 * pip install requests<br><br>
 
-You will need to grab the headers and cookies from the accounts you are wanting to use/swap.<br>
+Sign into the accounts you want to use, and head over to: 
 1) Place the headers of the username that is being released in **"account1.txt"**<br>
 2) Place the headers of the username that is claiming the username in **"account2.txt"**<br><br>
 
