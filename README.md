@@ -17,8 +17,8 @@ Install the required packages:<br>
 The headers must include "x-csrf-token:" and "authorization: Bearer" so make sure you grab the correct one.<br><br>
 
 Sign into the accounts you want to use, and head over to: 
-1) Place the headers of the username that is being released in **"account1.txt"**<br>
-2) Place the headers of the username that is claiming the username in **"account2.txt"**<br><br>
+1) Place the request headers of the account that is going to release the username in **"account1.txt"**<br>
+2) Place the request headers of the account that is claiming the username in **"account2.txt"**<br><br>
 
 3) To run the program, open CMD in the directory and type "python main.py"
 
